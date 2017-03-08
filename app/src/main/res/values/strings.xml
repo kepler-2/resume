@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Resume</string>
+    <string name="www">www.</string>
+    <string name="enter_url">Enter Url</string>
+    <string-array name="protocals">
+        <item>https</item>
+        <item>http</item>
+    </string-array>
+
+</resources>
